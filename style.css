@@ -1,3 +1,18 @@
+/*- GENERAL */
+section.green{
+    background-color: #1ABC9C;
+    color: white;
+}
+.jumbo-content img{
+    height: 400px;
+}
+/*SEPARATOR LINE*/
+div.separator{
+    width: 300px;
+    height: 3px;
+    background-color: white;
+}
+/* NAVBAR/HEADER */
 header{
     background-color: #2C3E50;
 }
