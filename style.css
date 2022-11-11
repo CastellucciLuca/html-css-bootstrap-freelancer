@@ -12,6 +12,12 @@ div.separator{
     height: 3px;
     background-color: white;
 }
+div.separator-grey{
+    background-color: #2C3E50;
+}
+div.separator-white{
+    background-color: white;
+}
 /* NAVBAR/HEADER */
 header{
     background-color: #2C3E50;
